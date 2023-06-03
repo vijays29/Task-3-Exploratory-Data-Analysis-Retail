@@ -4,10 +4,10 @@
 
 # Modules Used
  
-  .numpy
+   numpy
  
-  .pandas
+   pandas
  
-  .matplotlib
+   matplotlib
  
-  .seaborn
+   seaborn
