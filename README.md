@@ -15,6 +15,9 @@ Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 # Modules Used
 
 ● pandas
+
 ● numpy
-● matplotlib 
+
+● matplotlib
+
 ● seaborn
